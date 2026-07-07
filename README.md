@@ -246,15 +246,6 @@ Actively contributing end-to-end across multiple open-source repositories — fr
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=swathiyara9-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=swathiyara9-ai&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swathiyara9-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
-</div>
----
-
 
 ## 📈 Contribution Activity
 
