@@ -36,7 +36,7 @@ name: Swathi Yaragani
 
 role: Aspiring Software Engineer | AI/ML Enthusiast | Full Stack Developer
 
-education: B.Tech in Information Technology (5th Semester)
+education: B.Tech in Information Technology (4th Semester)
 
 focus_areas:
   - Full Stack Web Development (Django, React, TypeScript)
