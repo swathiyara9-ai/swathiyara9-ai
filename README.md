@@ -9,7 +9,7 @@
 <br/>
 
 ![Academic](https://img.shields.io/badge/B.Tech-Information%20Technology-6E40C9?style=flat-square&logo=studyverse&logoColor=white)
-![Semester](https://img.shields.io/badge/4th%20Semester-Student-4C2889?style=flat-square)
+![Semester](https://img.shields.io/badge/5th%20Semester-Student-4C2889?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
