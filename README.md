@@ -63,7 +63,6 @@ I enjoy working across the full stack using Django, React, and TypeScript while 
 - 🎓 B.Tech Information Technology Student (CGPA: 9.5+)
 - 🌱 Open Source Contributor (SSoC)
 - 🤖 AI & Full Stack Application Developer
-- 🏆 National-Level Hackathon Participant
 - 🏆 HackerRank Orchestrate ( May Edition)
 - 💻 Built AI-powered applications using Django, React, Python, and LLMs
 
