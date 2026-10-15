@@ -61,7 +61,7 @@ I enjoy working across the full stack using Django, React, and TypeScript while 
 
 ## 🌟 Highlights
 
-- 🎓 B.Tech Information Technology Student (CGPA: 9.5+)
+- 🎓 B.Tech Information Technology Student (CGPA: 9.3+)
 - 🌱 Open Source Contributor (SSoC)
 - 🤖 AI & Full Stack Application Developer
 - 🏆 HackerRank Orchestrate ( May Edition)
@@ -237,7 +237,7 @@ Actively contributing end-to-end across multiple open-source repositories — fr
 
 | Recognition | Details |
 |---|---|
-| 🎓 B.Tech Information Technology | CGPA: 9.5+ |
+| 🎓 B.Tech Information Technology | CGPA: 9.3+ |
 | 🥇 National-Level Business Competition | Presented at **Decision Arena 2026**, a scenario-based decision analysis competition |
 | 🧠 HackerRank Orchestrate — June 2026 | Built a multi-modal AI insurance claim verification pipeline |
 | 🧠 HackerRank Orchestrate — May 2026 | Built a RAG-based multi-domain support triage agent |
